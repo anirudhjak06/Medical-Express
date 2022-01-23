@@ -1,5 +1,5 @@
 # Medical Express
-Hello all, I am Anirudh from Indian Institute of Information Technology, Sri City. 
+Hello all, I am Anirudh Jakhotia from Indian Institute of Information Technology, Sri City. 
 This is my project submission for Future Ready Talent Internship.
 
 ## Industry:
